@@ -1,3 +1,3 @@
 # Playground Repo
 
-A new Fall 2018 message.
+A old version of README.
